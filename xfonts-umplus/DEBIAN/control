@@ -1,0 +1,12 @@
+Package: xfonts-umplus
+Version: 1.0.0-01
+Section: x11
+Priority: optional
+Architecture: all
+Essential: no
+Suggests:
+Maintainer: xmisao <mail@xmisao.com>
+Conflicts:
+Replaces:
+Provides:
+Description: M+ bitmap 10/12 dot Latin/Japanese unicode fonts for X11
